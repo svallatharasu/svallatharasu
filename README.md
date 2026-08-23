@@ -1,4 +1,6 @@
-<img src="assets/Iron_Man.gif" alt="Iron Man" width="60%" height="0%">
+<div align="center">
+<img src="assets/Iron_Man.gif" alt="Iron Man" width="70%" height="0%">
+</div>
 
 ## 👋🏻 Hey! Nice to meet you!
 
