@@ -1,4 +1,4 @@
-![Iron Man](assets/Iron_Man.gif)
+<img src="assets/Iron_Man.gif" alt="Iron Man" width="100%" height="10%">
 
 ## 👋🏻 Hey! Nice to meet you!
 
