@@ -1,0 +1,25 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Pull in medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # REPLACE 'your-medium-username' WITH YOUR ACTUAL MEDIUM USERNAME WITHOUT THE '@'
+          feed_list: "https://medium.com/feed/@santhosh.sivan.va"
+          max_post_count: 5
+
