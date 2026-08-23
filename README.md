@@ -4,7 +4,7 @@
 
 
 
-Welcome to **my digital garage**
+Welcome to **my digital garage** ✨
 
 I'm Santhoshsivan from India. 
 I do programming because of my interests in creating and debugging software. 
@@ -37,7 +37,7 @@ Studying hardware and mathematics on my own are also my hobbies.
 ![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=apachekafka)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=sqlite)
 
-⚡ Fun Fact: I put so much focus on the architecture part of the software that I forget to implement the core feature itself sometimes.
+⚡ **Fun Fact:** I put so much focus on the architecture part of the software that I forget to implement the core feature itself sometimes.
 
 ---
 

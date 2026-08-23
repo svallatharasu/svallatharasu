@@ -2,7 +2,7 @@ name: Latest blog post workflow
 on:
   schedule:
     # Runs every hour
-    - cron: '0 * * * *'
+    - cron: '0 */3 * * *'
   workflow_dispatch:
 
 permissions:
@@ -19,7 +19,6 @@ jobs:
       - name: Pull in medium posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          # REPLACE 'your-medium-username' WITH YOUR ACTUAL MEDIUM USERNAME WITHOUT THE '@'
           feed_list: "https://medium.com/feed/@santhosh.sivan.va"
           max_post_count: 5
 
