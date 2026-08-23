@@ -57,4 +57,9 @@ Studying hardware and mathematics on my own are also my hobbies.
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Complete Caching Guide](https://medium.com/@santhosh.sivan.va/complete-caching-blueprint-7da457613da4?source=rss-bd9a381457d9------2)
+- [NoSQL Database Guide: Stop Picking the Wrong One](https://medium.com/@santhosh.sivan.va/nosql-database-complete-guide-2026-102c042893b5?source=rss-bd9a381457d9------2)
+- [Database: Sharding and Partitioning](https://medium.com/@santhosh.sivan.va/database-sharding-and-partitioning-complete-guide-59476d7547f3?source=rss-bd9a381457d9------2)
+- [Scaling Database: A Big Task](https://medium.com/@santhosh.sivan.va/scaling-databases-a-big-task-a4461ef5362f?source=rss-bd9a381457d9------2)
+- [Database Isolation Levels: Why Your Database Lies to You](https://medium.com/@santhosh.sivan.va/database-isolation-levels-why-your-database-lies-to-you-8a2a81637c83?source=rss-bd9a381457d9------2)
 <!-- BLOG-POST-LIST:END -->
